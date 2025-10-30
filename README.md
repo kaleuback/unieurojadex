@@ -7,6 +7,9 @@ Este projeto é um **simulador de drones em Java**, utilizando uma arquitetura i
 Para executar o projeto com Maven:
 
 ```bash
+apt update
+apt install maven -y
+mvn -v
 mvn exec:java -Dexec.mainClass="br.univ.drone.Main"
 Durante a execução, três cenários automáticos são simulados:
 
