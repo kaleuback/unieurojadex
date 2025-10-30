@@ -1,0 +1,14 @@
+src/br/univ/drone/agents/DroneAgentHandle.java
+src/br/univ/drone/agents/DroneAgent.java
+src/br/univ/drone/Main.java
+src/br/univ/drone/simulator/World.java
+src/br/univ/drone/actuators/SimpleThrustActuator.java
+src/br/univ/drone/actuators/ThrustActuator.java
+src/br/univ/drone/sensors/BatterySensor.java
+src/br/univ/drone/sensors/LidarSensor.java
+src/br/univ/drone/sensors/GpsSensor.java
+src/br/univ/drone/sensors/AltitudeSensor.java
+src/br/univ/drone/sensors/SimpleAltitudeSensor.java
+src/br/univ/drone/sensors/SimpleGpsSensor.java
+src/br/univ/drone/sensors/SimpleLidarSensor.java
+src/br/univ/drone/sensors/SimpleBatterySensor.java
