@@ -2,8 +2,6 @@
 
 Este projeto é um **simulador de drones em Java**, utilizando uma arquitetura inspirada em **agentes inteligentes (Jadex-style)**, com sensores, atuadores e um mundo simulado.
 
----
-
 ## 🚀 Execução da Simulação
 
 Para executar o projeto com Maven:
