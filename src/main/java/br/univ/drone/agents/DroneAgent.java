@@ -31,7 +31,7 @@ public class DroneAgent {
     }
 
     public void run() {
-        System.out.println("[DRONE] Iniciando missão...");
+        System.out.println("[DRONE] Levantando voo...");
         int step = 0;
         while (missionActive && step < 20) { // limite para não travar
             sense();
@@ -52,7 +52,7 @@ public class DroneAgent {
             sleep(400);
             step++;
         }
-        System.out.println("[DRONE] Missão finalizada.");
+        System.out.println("[DRONE] Missao finalizada.");
     }
 
     private void sense() {
@@ -82,7 +82,7 @@ public class DroneAgent {
     }
 
     private void planFollowMission() {
-        System.out.println("[PLAN] Seguindo missão: avançando e subindo levemente.");
+        System.out.println("[PLAN] Seguindo missão: avançando e escaneando area.");
         thrust.setControl(0.6, 0.0, 0.1, 0.0);
     }
 

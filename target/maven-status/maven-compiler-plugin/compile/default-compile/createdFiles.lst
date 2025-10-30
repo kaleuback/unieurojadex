@@ -1,0 +1,14 @@
+br/univ/drone/sensors/AltitudeSensor.class
+br/univ/drone/sensors/SimpleBatterySensor.class
+br/univ/drone/sensors/LidarSensor.class
+br/univ/drone/agents/DroneAgent.class
+br/univ/drone/sensors/BatterySensor.class
+br/univ/drone/Main.class
+br/univ/drone/agents/DroneAgentHandle.class
+br/univ/drone/sensors/SimpleLidarSensor.class
+br/univ/drone/sensors/SimpleAltitudeSensor.class
+br/univ/drone/simulator/World.class
+br/univ/drone/actuators/ThrustActuator.class
+br/univ/drone/sensors/GpsSensor.class
+br/univ/drone/sensors/SimpleGpsSensor.class
+br/univ/drone/actuators/SimpleThrustActuator.class
